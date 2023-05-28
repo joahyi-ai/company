@@ -32,9 +32,9 @@ export default function Testimonials() {
               </div>
 
               <div className="content">
-                Love this extension. It's saved me hundreds of hours of work by
-                allowing me to download instagram followers and following in one
-                click!
+                Love this extension. It&apos;s saved me hundreds of hours of
+                work by allowing me to download instagram followers and
+                following in one click!
                 <br />
               </div>
             </div>
@@ -62,9 +62,9 @@ export default function Testimonials() {
               </div>
 
               <div className="content">
-                I've been looking for a way to extract followers and following
-                from any instagram profile and have finally found it. Thanks IG
-                Export. Great iob!
+                I&apos;ve been looking for a way to extract followers and
+                following from any instagram profile and have finally found it.
+                Thanks IG Export. Great iob!
                 <br />
               </div>
             </div>
@@ -73,7 +73,9 @@ export default function Testimonials() {
       </div>
       <h1 className="title is-capitalized has-text-centered pb-4">
         <Link href="/">
-          <button className="button is-link">Add to Chrome(It's FREE) </button>{" "}
+          <button className="button is-link">
+            Add to Chrome(It&apos;s FREE){" "}
+          </button>{" "}
         </Link>
       </h1>
     </div>

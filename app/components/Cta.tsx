@@ -6,7 +6,7 @@ export default function Cta() {
     <div className="pb-5 m-auto">
       {" "}
       <Link href="/" className="button is-medium is-link has-text-centered">
-        Add to Chrome(It's FREE)
+        Add to Chrome(It&apos;s FREE)
       </Link>
     </div>
   );
