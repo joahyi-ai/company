@@ -42,7 +42,7 @@ export default function Navbar() {
             <Link className="navbar-item" href="#testimonials">
               Testimonials
             </Link>
-            <Link className="navbar-item" href="pricing">
+            <Link className="navbar-item" href="#pricing">
               Pricing
             </Link>
           </div>
