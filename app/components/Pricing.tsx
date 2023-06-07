@@ -1,3 +1,4 @@
+import Link from "next/link";
 import React from "react";
 import "../styles/pricing.css";
 
@@ -33,7 +34,9 @@ export default function Pricing() {
                 </p>
               </div>
               <div className="spacer"></div>
-              <button className="button is-link">Get Started Now</button>
+              <Link href="https://chrome.google.com/webstore/detail/ig-export/ddaecgkckhmlkbkbkclfpopechmmbceo?hl=en">
+                <button className="button is-link">Get Started Now</button>
+              </Link>
             </div>
             <div className="column  has-text-centered best_selling is-active">
               <h2 className="title is-3 plan_title has-text-white has-text-weight-bold">
@@ -57,9 +60,11 @@ export default function Pricing() {
                 </p>
               </div>
               <div className="spacer"></div>
-              <button className="button is-primary best_selling_btn">
-                Get Started Now
-              </button>
+              <Link href="https://chrome.google.com/webstore/detail/ig-export/ddaecgkckhmlkbkbkclfpopechmmbceo?hl=en">
+                <button className="button is-primary best_selling_btn">
+                  Get Started Now
+                </button>
+              </Link>
             </div>
           </div>
         </div>

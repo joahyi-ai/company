@@ -5,7 +5,10 @@ export default function Cta() {
   return (
     <div className="pb-5 m-auto">
       {" "}
-      <Link href="/" className="button is-medium is-link has-text-centered">
+      <Link
+        href="https://chrome.google.com/webstore/detail/ig-export/ddaecgkckhmlkbkbkclfpopechmmbceo?hl=en"
+        className="button is-medium is-link has-text-centered"
+      >
         Add to Chrome(It&apos;s FREE)
       </Link>
     </div>

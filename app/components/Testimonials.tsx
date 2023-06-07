@@ -72,7 +72,7 @@ export default function Testimonials() {
         </div>
       </div>
       <h1 className="title is-capitalized has-text-centered pb-4">
-        <Link href="/">
+        <Link href="https://chrome.google.com/webstore/detail/ig-export/ddaecgkckhmlkbkbkclfpopechmmbceo?hl=en">
           <button className="button is-link">
             Add to Chrome(It&apos;s FREE){" "}
           </button>{" "}

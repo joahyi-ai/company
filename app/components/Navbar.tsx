@@ -49,7 +49,10 @@ export default function Navbar() {
 
           <div className="navbar-end">
             <div className="navbar-item">
-              <Link href="/" className="button is-link">
+              <Link
+                href="https://chrome.google.com/webstore/detail/ig-export/ddaecgkckhmlkbkbkclfpopechmmbceo?hl=en"
+                className="button is-link"
+              >
                 <strong>GET STARTED</strong>
               </Link>
             </div>
